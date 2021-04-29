@@ -1,4 +1,5 @@
 ## Car Price Prediction Project
+Author Name :Tanu Bhandari
 
 In this Project, we are performing Linear Regression Algorithm, and using the Model to Predict the Car Price.
 
